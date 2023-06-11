@@ -15,7 +15,7 @@
 安裝
 1.開啟終端機(Terminal)cd 到存放專案本機位置並執行:
 
-git clone https://github.com/Eason0in/Restaurant-CRUD.git
+git clone https://github.com/LeoChiang0917/movie_list.git
 2.初始
 
 cd Restaurant-CRUD  //切至專案資料夾
